@@ -2,7 +2,7 @@
 
 O objetivo desse projeto foi criar uma aplicação em React que pudesse adicionar, editar, e excluir produtos.
 
-![Print CRUD](./print.png)
+<img src="/print.PNG" height="300px"/>
 
 ## Aplicações:
 * [Visual Studio Code](https://code.visualstudio.com/download)

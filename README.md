@@ -1,4 +1,4 @@
-# CRUD Automóveis
+# CRUD Automóveis 🚗
 
 O objetivo desse projeto foi criar uma aplicação em React que pudesse adicionar, editar, e excluir produtos.
 

@@ -9,8 +9,8 @@ O objetivo desse projeto foi criar uma aplicação em React que pudesse adiciona
 * [Node.Js](https://nodejs.org/en/download/)
 * [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
 
-### Tutorial: 
+## Tutorial: 
 [Build a CRUD App in React with Hooks - Tania Rascia](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
 
-### Projeto:
+## Projeto:
 -> [Garagem](https://crud-automoveis.netlify.app/)
